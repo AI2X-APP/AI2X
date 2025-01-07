@@ -1,5 +1,4 @@
-<a href="https://www.llamacoder.io">
-  <img alt="Llama Coder" src="./public/og-image.png">
+<a href="https://x.com/ai2_x93472">
   <h1 align="center">AI2X Coder</h1>
 </a>
 
